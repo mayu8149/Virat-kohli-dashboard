@@ -1,3 +1,3 @@
-[Explore the Interactive Dashboard](https://codebeautify.org/hyperlink-generator#)
+[Explore the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI5OGNlZGUtNzRlMy00ZjY5LTk3NDctZDVkNmRhMjQ0NzIwIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
-![virat kohli performance](https://github.com/user-attachments/assets/4b6a78f2-c637-4bea-910d-4fcbd1eca5b5)
+![virat kohli Dashboard using power bi](https://github.com/user-attachments/assets/a9f17537-c9ee-45d0-9029-3edc2c2cbd29)
